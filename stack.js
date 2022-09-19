@@ -1,3 +1,4 @@
+//FIFO
 class Stack {
     constructor(){
         this.stack = [];
